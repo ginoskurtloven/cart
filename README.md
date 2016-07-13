@@ -31,3 +31,9 @@ simple project for managing small ecommerce site.
 
 
 
+
+##Guide and Article
+1. [Planning a Programming Project by KhanAcademy](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project)
+
+
+
