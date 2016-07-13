@@ -12,3 +12,15 @@ simple project for managing small ecommerce site.
 
 
 
+##BUG
+
+
+
+
+
+
+
+##RESOURCE and NOTE
+
+
+
