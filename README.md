@@ -11,6 +11,9 @@ simple project for managing small ecommerce site.
 - [x] Integrate skeleton framework.
 - [x] Create folder in root directory.
 - [ ] Create Initial Page.
+	- [ ] Home page
+	- [ ] About Us Page
+	- [ ] Portal / Login Page
 - [ ] Build the Database Design using MYSQL.
 
 
