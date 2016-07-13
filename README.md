@@ -16,7 +16,7 @@ simple project for managing small ecommerce site.
 
 
 ##BUG
-1. Nothing Yet! :D
+1. Nothing Yet! :thumbsup:
 
 
 
